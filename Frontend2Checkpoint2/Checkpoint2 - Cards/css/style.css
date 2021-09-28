@@ -1,0 +1,125 @@
+
+.Titulo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#cards_content {
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.cardUnit {
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 15px 15px 65px 15px;
+    text-align: center;
+}
+
+#clock {
+    width: 20px;
+    height: 20px;
+    margin-right: 0px;
+}
+
+.editable {
+    width: 110%;
+    height: 110%;
+    outline: none;
+    background-color: #055858;
+    padding: 10px;
+    margin-top: 5px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: rgb(226, 246, 246) ;
+}
+
+.date {
+    outline: none;
+    font-size: 13.1px;
+}
+
+
+
+.cardUnit_1, .cardUnit_2 {
+    display: inline;
+}
+
+.botaoAdd {
+    margin-left: 44rem;
+    align-items: center;
+    font-size: 50px;
+    height: 70px;
+    width: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+#tachado{
+    margin-top: -10px;
+    margin-left: 35px;
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+}
+
+#btn_del {
+    margin: 18px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 13px;
+    transition: background-color 0.5s ease-in-out;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 50%;
+    height: 50%;
+    margin-left: 19px;
+    margin-right: auto;
+}
+
+#btn_del:hover {
+    color: #fff;
+    font-weight: bold;
+    background-color: rgb(235, 23, 23);
+} 
+
+
+
+#form_entrada {
+    display: none;
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgba(8, 175, 167, 0.691);
+    border-radius: 5px;
+    padding: 10px;
+    width: 250px;
+    height: 300px;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: 10px 6px 10px rgba(0, 0, 0, 0.1);
+}
+
+#data_criacao, #data_limite, #descricao {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 0;
+    outline: none;
+}
+
+#descricao {
+    resize: none;
+    background-color:white;
+}
+
+label {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

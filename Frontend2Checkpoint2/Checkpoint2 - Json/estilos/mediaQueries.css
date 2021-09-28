@@ -1,0 +1,172 @@
+@media (min-width: 768px) {
+    h1 {
+        color: #141817;
+        display: flex;
+        justify-content: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .input1 {
+        width: 300px;
+        margin: 20px;
+        margin-left: 27%;
+        padding: 5px;
+        color:#141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .input2 {
+        width: 300px;
+        margin: 20px;
+        margin-left: 27%;
+        padding: 5px;
+        color: #141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .input3 {
+        width: 300px;
+        margin: 20px;
+        margin-left: 27%;
+        padding: 5px;
+        color: #141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .button1 {
+        display: flex;
+        justify-content: center;
+        width: 300px;
+        margin-left: 28%;
+        border: none;
+        background-color: #141817;
+        padding: 14px 28px;
+        border-radius: 20px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 1024px) { 
+    h1 {
+        color: #141817;
+        display: flex;
+        justify-content:center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .input1 {
+        width: 400px;
+        margin: 25px;
+        margin-left: 38.5%;
+        padding: 5px;
+        color:#141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .input2 {
+        width: 400px;
+        margin: 25px;
+        margin-left: 38.5%;
+        padding: 5px;
+        color: #141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .input3 {
+        width: 400px;
+        margin: 25px;
+        margin-left: 38.5%;
+        padding: 5px;
+        color: #141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .button1 {
+        display: flex;
+        justify-content: center;
+        width: 400px;
+        margin-left: 39%;
+        border: none;
+        background-color: #077269;
+        padding: 14px 28px;
+        border-radius: 20px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+    }
+}
+
+@media (max-width: 540px) {
+
+    h1 {
+        color: #141817;
+        display: flex;
+        justify-content: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .input1 {
+        width: 250px;
+        margin: 10px;
+        margin-left: 17%;
+        padding: 5px;
+        font-weight: bolder;
+        color:#141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .input2 {
+        width: 250px;
+        margin: 10px;
+        margin-left: 17%;
+        padding: 5px;
+        font-weight: bolder;
+        color: #141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .input3 {
+        width: 250px;
+        margin: 10px;
+        margin-left: 17%;
+        padding: 5px;
+        font-weight: bolder;
+        color: #141817;
+        display: flex;
+        justify-content: center;
+        border-radius: 20px;
+    }
+    
+    .button1 {
+        display: flex;
+        justify-content: center;
+        width: 250px;
+        margin-left: 18%;
+        border: none;
+        background-color: #141817;
+        padding: 14px 28px;
+        border-radius: 20px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+    }
+}
