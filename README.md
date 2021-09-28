@@ -3,7 +3,8 @@ Projeto to-do Parte I e II
 
 Objetivo
 
-	Olá Houser, tudo bem com você? Esta atividade tem como objetivo servir como segundo instrumento avaliativo da disciplina. Se atente às instruções e bom trabalho. O entregável é uma aplicação de to-do (lista de coisas a fazer). O projeto terá 2 páginas. O projeto é individual.
+Olá Houser, tudo bem com você? Esta atividade tem como objetivo servir como segundo instrumento avaliativo da disciplina. Se atente às instruções e bom trabalho. 
+O entregável é uma aplicação de to-do (lista de coisas a fazer). O projeto terá 2 páginas. O projeto é individual.
   
 Instruções e requisitos do entregável
 	
